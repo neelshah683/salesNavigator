@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Deployment Link:
+Platform: ***Vercel***  | Link: https://salesnavigator.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction:
+This navigator boasts fully mobile responsiveness and offers extensive customization options. With a selection of six theme colors and the ability to seamlessly toggle between light and dark modes, users can tailor their experience to their preferences.
 
-## Available Scripts
+* **Fully Mobile Responsive:** Compatible and Fully Responsive across all the devices.
+  
+* **Robust:** The robust admin panel features a comprehensive set of tools, including a centralized dashboard, three informative pages, four user-friendly apps, and an array of seven meticulously designed and fully functional charts.
 
-In the project directory, you can run:
+* **Matrix View:** It presents an aesthetically pleasing matrix view, showcasing critical data such as earnings tables, recent transactions, comprehensive sales overviews, and more. This layout is meticulously crafted to offer a seamless and insightful user experience.
 
-### `npm start`
+  ## Preview:
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/617b8c9a-bdfd-41af-a518-a866bbf305d8)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/12c337c3-fced-4f00-968c-9f8db9bac238)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/bbdd82aa-c815-40bc-8ab1-34f2dd46faa4)
 
-### `npm test`
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/b3aa1923-11ad-4051-b258-9e572f4bc243)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/b7f3c73f-b227-4abd-9ac2-24b10b2e6e1b)
 
-### `npm run build`
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/b7607f77-fc64-4785-a043-bd5c9bbd90eb)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/8b8278bb-21f6-4f10-8630-d1ee1a3968fb)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ![image](https://github.com/neelshah683/salesNavigator/assets/107039743/813e889e-c8dd-47b0-a142-523e2113f33f)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
